@@ -1,7 +1,7 @@
 # 💫 About Me:
-Studying at Elan formation<br>
-Learning PHP / JS / SQL / And lot more! <br>
-Looking for balance between the Front and the Back  
+Studying at Elan Formation
+Learning PHP, JS, SQL, and much more!
+Seeking a balance between Frontend and Backend development 
 
 
 ## 🌐 Socials:
